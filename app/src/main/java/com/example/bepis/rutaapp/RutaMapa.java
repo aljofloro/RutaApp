@@ -25,9 +25,7 @@ import java.util.ArrayList;
 import javax.xml.parsers.DocumentBuilder;
 import javax.xml.parsers.DocumentBuilderFactory;
 
-/**
- * Created by BEPIS on 15/08/2015.
- */
+
 public class RutaMapa extends AsyncTask<Void,Integer,Boolean> {
 
     private static final String TOAST_MSG = "Calculando ...";
