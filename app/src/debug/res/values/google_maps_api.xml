@@ -1,0 +1,18 @@
+<resources>
+    <!--
+    TODO: Before you run your application, you need a Google Maps API key.
+
+    To get one, follow this link, follow the directions and press "Create" at the end:
+
+https://console.developers.google.com/flows/enableapi?apiid=maps_android_backend&keyType=CLIENT_SIDE_ANDROID&r=88:2E:B5:1F:4D:B2:57:D4:EB:07:62:04:B9:9B:3A:9F:FF:37:89:98%3Bcom.example.bepis.rutaapp
+
+    You can also add your credentials to an existing key, using this line:
+    88:2E:B5:1F:4D:B2:57:D4:EB:07:62:04:B9:9B:3A:9F:FF:37:89:98;com.example.bepis.rutaapp
+
+    Once you have your key (it starts with "AIza"), replace the "google_maps_key"
+    string in this file.
+    -->
+    <string name="google_maps_key" translatable="false" templateMergeStrategy="preserve">
+        AIzaSyCz0tZYCv16gK-fjJ_RNBcD4C_WXU7zQ1E
+    </string>
+</resources>
